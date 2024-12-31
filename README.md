@@ -19,7 +19,7 @@ Instala las bibliotecas necesarias utilizando pip:
 bash
 pip install langchain_community langchain_core
 Uso
-Para ejecutar el chatbot, simplemente corre el script chat.py.
+Para ejecutar el chatbot, simplemente corre el script chat_ollama.py.
 
 Ejemplo de uso
 El chatbot se inicia y espera preguntas del usuario en un bucle hasta que se ingresa "adios". Aquí tienes un ejemplo de interacción:
