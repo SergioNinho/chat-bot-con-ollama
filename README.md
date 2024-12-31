@@ -22,10 +22,10 @@ Uso
 Para ejecutar el chatbot, simplemente corre el script chat_ollama.py.
 
 Ejemplo de uso
+-----------------------------------------------------------
 El chatbot se inicia y espera preguntas del usuario en un bucle hasta que se ingresa "adios". Aquí tienes un ejemplo de interacción:
 
 you: ¿Cómo estás?
---------------------------------------------------
 AI: Estoy aquí para ayudarte. ¿Qué necesitas saber?
 Descripción del Código
 Importaciones: Se importan las bibliotecas necesarias.
